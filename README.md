@@ -16,3 +16,7 @@ How to deploy github pages.
 13)Now your code is proper so, go your repo->settings->pages
 14)In source button you are going to change your Branch(do it main) and save.
 15)Now at the pages part you can find the link your site.
+
+
+I get some of the informations from this video: https://www.youtube.com/watch?v=QyFcl_Fba-k
+It has some details about branches.
