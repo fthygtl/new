@@ -1,3 +1,5 @@
+THIS REPOSITORY IS EXIST TO EXPLAIN HOW TO CREATE GITHUB PAGES
+
 # new
 How to deploy github pages.
 
