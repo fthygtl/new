@@ -1,3 +1,7 @@
+<?php
+echo 'heyy';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,9 +11,8 @@
     <title>Document</title>
 </head>
 <body>
-  
-    hello
-    <a href="giris.php">giris.php</a>
-   
+
+laleli
+    
 </body>
 </html>
