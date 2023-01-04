@@ -1,3 +1,4 @@
+https://fthygtl.github.io/new/
 THIS REPOSITORY IS EXIST TO EXPLAIN HOW TO CREATE GITHUB PAGES
 
 # new
